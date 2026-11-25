@@ -21,8 +21,7 @@ I am in the process of creating a portfolio page for all my personal projects. P
 In the mean time:
 
 - [spokes](https://starter-draft-29iy8wwn6-spokes1.vercel.app/docs/overview), is a project my partner and I are creating. A SaaS platform for asset management.  It is still a WIP.
-- A small [dictionary](https://urbandictionary-app.vercel.app) app
-- A small game myself and a team from Northcoders created
+- A small game myself and a team from Northcoders created [Front end](https://github.com/Gilson96/breen-team-FE) and [backend](https://github.com/josephhelmore/breen-team-backend)
 
 
 ### AI
